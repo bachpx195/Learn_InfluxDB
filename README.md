@@ -1,5 +1,6 @@
 # Learn_InfluxDB
 
+https://docs.influxdata.com/influxdb/v2.0/get-started/?t=Linux#start-influxdb
 
 When installed as a service, InfluxDB stores data in the following locations:
 
@@ -11,7 +12,7 @@ To customize your InfluxDB configuration, use either command line flags (argumen
 
 
 
-# Start InfluxDB
+## Start InfluxDB
 
 Start InfluxDB by running the influxd daemon:
 
