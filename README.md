@@ -11,7 +11,8 @@ To customize your InfluxDB configuration, use either command line flags (argumen
 
 
 
-#Start InfluxDB
+# Start InfluxDB
+
 Start InfluxDB by running the influxd daemon:
 
 > influxd
